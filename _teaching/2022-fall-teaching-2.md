@@ -1,9 +1,9 @@
 ---
-title: "EE 360 Communication System
-collection: 
+title: "EE 360 Communication System"
+collection: teaching
 type: "Workshop"
-permalink: /teaching/2022-fall-teaching-1
+permalink: /teaching/2022-fall-teaching-2
 venue: "University 1, Department"
 date: 2015-8-18
-location: "PSU
+location: "PSU"
 ---
