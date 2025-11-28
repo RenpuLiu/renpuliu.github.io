@@ -1,9 +1,9 @@
 ---
 title: "EE 360 Communication System"
 collection: teaching
-type: "Workshop"
+type: "RA"
 permalink: /teaching/2022-fall-teaching-2
-venue: "University 1, Department"
+venue: "Pennsylvania State University"
 date: 2015-8-18
 location: "PSU"
 ---
