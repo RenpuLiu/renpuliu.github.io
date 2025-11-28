@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # Currently available options are "default", "air"
+site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Renpu Liu"
 title_separator          : "-"
 name                     : &name "Renpu Liu"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Renpu Liu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Office: Room 328 Rice Hall"
   location         : "Virginia, USA"
   employer         : "University of Virginia"
   uri              : # URL
